@@ -1,3 +1,4 @@
+
 ![Clean Work Place LinkedIn](https://user-images.githubusercontent.com/64878501/89498564-1434c100-d7dc-11ea-92e8-ca575b698061.png)
 ### Hi there, I'm Rajesh Ranjan - aka [Rajesh42][website] 👋
 
@@ -22,26 +23,15 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sublime Text" width="26px" src="https://user-images.githubusercontent.com/64878501/89499092-0e8bab00-d7dd-11ea-9fd2-7ad17b2feb03.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/64878501/89498803-9624ea00-d7dc-11ea-91f2-a76150406d6a.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/64878501/89499726-1c8dfb80-d7de-11ea-810f-716a3b134a2e.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/64878501/89499893-65de4b00-d7de-11ea-90fc-f37db7f77dc7.jpg" />
-<img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/64878501/89500037-9faf5180-d7de-11ea-9e38-350b7c53583c.jpg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
+|<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />|<img alt="Sublime Text" width="26px" src="https://user-images.githubusercontent.com/64878501/89499092-0e8bab00-d7dd-11ea-9fd2-7ad17b2feb03.png" />|<img alt="C++" width="26px" src="https://user-images.githubusercontent.com/64878501/89498803-9624ea00-d7dc-11ea-91f2-a76150406d6a.png" />|<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />|<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />|<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />|<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />|<img alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/64878501/89499726-1c8dfb80-d7de-11ea-810f-716a3b134a2e.png" />|<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />|<img alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/64878501/89499893-65de4b00-d7de-11ea-90fc-f37db7f77dc7.jpg" />|<img alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/64878501/89500037-9faf5180-d7de-11ea-9e38-350b7c53583c.jpg" />|<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 </br>
 
 ### My Github Stats: 
 ***
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=Rajesh42&show_icons=true&theme=radical" hight="100px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh42&hide=css,html&theme=tokyonight"hight="100px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh42&hide=html&theme=tokyonight"hight="100px">
 </p>
 
 [website]: https://Rajesh42.com
@@ -50,3 +40,6 @@
 [hackerrank]:https://www.hackerrank.com/rajesh_42
 [facebook]:https://www.facebook.com/100004928190211
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/rajesh_42/practice/
+
+
+
