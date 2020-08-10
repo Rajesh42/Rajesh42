@@ -1,4 +1,7 @@
-![20200810_141531](https://user-images.githubusercontent.com/64878501/89765534-254f3c00-db14-11ea-869d-1f4506cecfd9.gif)
+<p align = "center">
+  <img alt="header" width="100%" src="https://user-images.githubusercontent.com/64878501/89765534-254f3c00-db14-11ea-869d-1f4506cecfd9.gif" />
+</p>
+
 ### Hi there, I'm Rajesh Ranjan - aka [Rajesh42][website] 👋
 
 ## I'm a Engineer, Coder, Designer, and Cuber!
@@ -29,8 +32,8 @@
 ### My Github Stats: 
 ***
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api/?username=Rajesh42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true" hight="100px">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh42&hide=html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true"hight="100px">
+  <img src = "https://github-readme-stats.vercel.app/api/?username=Rajesh42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&height=90px" >
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh42&hide=html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&height=90px">
 </p>
 
 [website]: https://Rajesh42.com
