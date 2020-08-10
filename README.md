@@ -1,5 +1,4 @@
-
-![Clean Work Place LinkedIn](https://user-images.githubusercontent.com/64878501/89498564-1434c100-d7dc-11ea-92e8-ca575b698061.png)
+![20200810_141531](https://user-images.githubusercontent.com/64878501/89765534-254f3c00-db14-11ea-869d-1f4506cecfd9.gif)
 ### Hi there, I'm Rajesh Ranjan - aka [Rajesh42][website] 👋
 
 ## I'm a Engineer, Coder, Designer, and Cuber!
