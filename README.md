@@ -37,13 +37,10 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<p align="left" width="80%">
-<a href="https://github.com/Rajesh42">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajesh42&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh42&theme=vue&layout=compact" />
-</a>
+<p align = "center">
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/?username=Rajesh42&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&include_all_commits=true" >
+  <img height="180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh42&hide=html&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true">
 </p>
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
