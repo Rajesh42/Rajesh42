@@ -1,7 +1,8 @@
 <p align = "center">
-  <img alt="header" width="100%" src="https://user-images.githubusercontent.com/64878501/89765534-254f3c00-db14-11ea-869d-1f4506cecfd9.gif" />
+  <img alt="header" width="110%" src="https://user-images.githubusercontent.com/64878501/89765534-254f3c00-db14-11ea-869d-1f4506cecfd9.gif" />
 </p>
-<h2> Hi there, I'm Rajesh Ranjan - aka [Rajesh42][website] 👋</h2>
+
+## Hi there, I'm Rajesh Ranjan - aka [Rajesh42][website] 👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -46,12 +47,12 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[<img align="left" alt="www.Rajesh42.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rajesh Ranjan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rajesh Ranjan | Geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
-[<img align="left" alt="Rajesh Ranjan | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Rajesh Ranjan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Rajesh Ranjan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="www.Rajesh42.com" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Rajesh Ranjan | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rajesh Ranjan | Geeksforgeeks" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
+[<img align="left" alt="Rajesh Ranjan | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Rajesh Ranjan | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Rajesh Ranjan | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://Rajesh42.com
 [linkedin]: https://linkedin.com/in/Rajesh42
