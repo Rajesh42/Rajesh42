@@ -31,10 +31,12 @@
 
 ### My Github Stats: 
 ***
+<p align="center">
 <a href="https://github.com/Rajesh42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajesh42&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh42&theme=vue&layout=compact" />
 </a>
+</p>
 
 [website]: https://Rajesh42.com
 [linkedin]: https://linkedin.com/in/Rajesh42
