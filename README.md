@@ -1,36 +1,41 @@
 <p align = "center">
   <img alt="header" width="100%" src="https://user-images.githubusercontent.com/64878501/89765534-254f3c00-db14-11ea-869d-1f4506cecfd9.gif" />
 </p>
+<h2> Hi there, I'm Rajesh Ranjan - aka [Rajesh42][website] 👋</h2>
 
-### Hi there, I'm Rajesh Ranjan - aka [Rajesh42][website] 👋
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-## I'm a Engineer, Coder, Designer, and Cuber!
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying at Jadavpur University.
+- 💼 &nbsp; Currently working on a social media app
+- 🌱 &nbsp; Currently learning Node.js 
+- 🥅 &nbsp; 2020 Goals: Contribute more to Open Source projects
+- ⚡ &nbsp; My favorite hobby: Collecting and solving different types of Rubik's Cubes.
 
-- 🔭 Currently working on a social media app
-- 🌱 Currently learning Node.js 
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ My favorite hobby: Collecting and solving different types of Rubik's Cubes.
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
-### Connect with me:
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-
-[<img align="left" alt="www.Rajesh42.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rajesh Ranjan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rajesh Ranjan | Geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
-[<img align="left" alt="Rajesh Ranjan | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
-[<img align="left" alt="Rajesh Ranjan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Rajesh Ranjan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-|<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />|<img alt="Sublime Text" width="26px" src="https://user-images.githubusercontent.com/64878501/89499092-0e8bab00-d7dd-11ea-9fd2-7ad17b2feb03.png" />|<img alt="C++" width="26px" src="https://user-images.githubusercontent.com/64878501/89498803-9624ea00-d7dc-11ea-91f2-a76150406d6a.png" />|<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />|<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />|<img alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />|<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />|<img alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/64878501/89499726-1c8dfb80-d7de-11ea-810f-716a3b134a2e.png" />|<img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />|<img alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/64878501/89499893-65de4b00-d7de-11ea-90fc-f37db7f77dc7.jpg" />|<img alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/64878501/89500037-9faf5180-d7de-11ea-9e38-350b7c53583c.jpg" />|<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-</br>
-
-### My Github Stats: 
-***
 <p align="center">
 <a href="https://github.com/Rajesh42">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajesh42&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
@@ -38,6 +43,15 @@
 </a>
 </p>
 
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+[<img align="left" alt="www.Rajesh42.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Rajesh Ranjan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rajesh Ranjan | Geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
+[<img align="left" alt="Rajesh Ranjan | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="Rajesh Ranjan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Rajesh Ranjan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://Rajesh42.com
 [linkedin]: https://linkedin.com/in/Rajesh42
