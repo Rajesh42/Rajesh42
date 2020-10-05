@@ -51,7 +51,7 @@
 [<img align="left" alt="Rajesh Ranjan | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Rajesh Ranjan | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[website]: https://Rajesh42.com
+[website]: https://www.Rajesh42.com
 [linkedin]: https://linkedin.com/in/Rajesh42
 [instagram]: https://www.instagram.com/x_rajeshranjan_x/
 [hackerrank]:https://www.hackerrank.com/rajesh_42
