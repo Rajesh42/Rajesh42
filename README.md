@@ -51,12 +51,20 @@
 [<img align="left" alt="Rajesh Ranjan | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Rajesh Ranjan | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+</br></br></br>
+
+<a href="https://github.com/Rajesh42/News-App">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=News-App" />
+</a>
+<a href="https://github.com/Rajesh42/ChatApp">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajesh42&repo=ChatApp" />
+</a>
+
 [website]: https://www.Rajesh42.com
 [linkedin]: https://linkedin.com/in/Rajesh42
 [instagram]: https://www.instagram.com/x_rajeshranjan_x/
 [hackerrank]:https://www.hackerrank.com/rajesh_42
 [facebook]:https://www.facebook.com/100004928190211
 [geeksforgeeks]:https://auth.geeksforgeeks.org/user/rajesh_42/practice/
-
 
 
