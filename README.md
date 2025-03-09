@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Graduated from Jadavpur University.
 - 💼 &nbsp; Currently working on a social media app.
 - 🌱 &nbsp; Currently learning Deep learning (DL) frameworks.
-- 🥅 &nbsp; 2022 Goals: Contribute more to Open Source projects.
+- 🥅 &nbsp; 2025 Goals: Contribute more to Open Source projects.
 - ⚡ &nbsp; My favorite hobby: Collecting and solving different types of Rubik's Cubes.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
